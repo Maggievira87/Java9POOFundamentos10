@@ -1,4 +1,4 @@
-package Cafeteria;// Solucion Taller
+package Cafeteria;// Solucion primer taller
 
 import java.util.ArrayList;
 
